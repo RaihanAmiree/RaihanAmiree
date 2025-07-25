@@ -1,6 +1,7 @@
+(<a href="https://ibb.co/B2j3PrhK"><img src="https://i.ibb.co/DfkWb8Bg/Github-profile.jpg" alt="Github-profile" border="0"></a>)
+
 ### Hi there 👋, Raihan Amiree
 #### Front-End Developer
-![Front-End Developer](<a href="https://ibb.co/B2j3PrhK"><img src="https://i.ibb.co/DfkWb8Bg/Github-profile.jpg" alt="Github-profile" border="0"></a>)
 
 Dedicated to crafting clean code and continuously expanding my technical toolkit as a front-end developer. Open to collaborations and new challenges.
 
