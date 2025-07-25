@@ -1,4 +1,4 @@
-![Front-End Developer Banner](images/Github profile.jpg)
+![Front-End Developer Banner](image/Github%20profile.jpg)
 
 ### Hi there 👋, Raihan Amiree
 #### Front-End Developer
