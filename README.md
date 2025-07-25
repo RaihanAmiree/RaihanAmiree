@@ -1,4 +1,4 @@
-<a href="https://ibb.co/B2j3PrhK"><img src="https://i.ibb.co/DfkWb8Bg/Github-profile.jpg" alt="Github-profile" border="0"></a>
+![Front-End Developer Banner](images/Github profile.jpg)
 
 ### Hi there 👋, Raihan Amiree
 #### Front-End Developer
