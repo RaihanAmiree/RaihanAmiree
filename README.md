@@ -1,1 +1,15 @@
-<img src="../desktop/Github profile.jpg">
+### Hi there 👋, Raihan Amiree
+#### Front-End Developer
+![Front-End Developer](<a href="https://ibb.co/B2j3PrhK"><img src="https://i.ibb.co/DfkWb8Bg/Github-profile.jpg" alt="Github-profile" border="0"></a>)
+
+Dedicated to crafting clean code and continuously expanding my technical toolkit as a front-end developer. Open to collaborations and new challenges.
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RaihanAmiree)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaihanAmiree&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RaihanAmiree)  
+
+
